@@ -31,9 +31,9 @@ module.exports = {
         return res.json(produto)
     },
     async updatProduto(req, res){
-        const {id, nome_produto, quantidade, valor, created_at, updated_at} = req.body
+        const {id, nome_produto, quantidade, valor, updated_at} = req.body
         const produto = await Produto.update({
-            nome_produto, quantidade, valor, created_at, updated_at
+            nome_produto, quantidade, valor, updated_at
         }, {
             where: {
                 id: id
