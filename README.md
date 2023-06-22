@@ -65,11 +65,20 @@ Responsividade é a capacidade do layout, estilo ou configurações de uma pági
 MVC é uma arquitetura usada para implementar o processo de desenvolvimento de um software, sendo divididos em três partes que permitem a separação entre o Frontend e o Backend. O Model é responsável por definir a estrutura dos dados, processando tudo o que for necessário para o funcionamento da aplicação. Já o Controller lida com as informações de entrada, mapeando todas as ações e possíveis dados. O View, por sua vez, está ligado a Interface do Usuário e as informações que serão apresentadas na tela, representando o Frontend. 
  
 #### 3. Escreva a definição de Programação Orientada a Objeto (POO)
+Programação Orientada a Objetos é um modelo de programação onde os objetos são representados por classes. Essas classes possuem métodos, que determinam o funcionamento e as ações da classe, e atributos, que deteminam seus estados e dados.
 
-#### 4. Em Javascript, escreva uma função que receba como parâmetro um
-número inteiro. Caso este número seja par, a função deve retornar a
-string “par”, caso contrário “ímpar”.
+#### 4. Em Javascript, escreva uma função que receba como parâmetro um número inteiro. Caso este número seja par, a função deve retornar a string “par”, caso contrário “ímpar”.
+```javascript
+function parOuImpar(numero){
+   if(numero % 2 == 0){
+      return 'par'
+   }else{
+      return 'impar'
+   }
+}
+```
 
-#### 5. (OPCIONAL) Em MySQL, escreva uma query referente à seleção de
-todos os atributos de todos os registros da tabela ‘produtos’
-ordenados por ‘id’ de forma decrescente.
+#### 5. (OPCIONAL) Em MySQL, escreva uma query referente à seleção de todos os atributos de todos os registros da tabela ‘produtos’ ordenados por ‘id’ de forma decrescente.
+```MySQL
+SELECT * FROM Produtos ORDER BY id DESC
+```
