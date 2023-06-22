@@ -1,5 +1,5 @@
 # Introdução
-Este arquivc Readme.md apresenta a prova teórica e o teste prático. Todo o conteúdo está dividido em tópicos, desde as respostas da prova, até as instruções de configuração do ambiente de testes. Você pode navegar até o tópico desejado clicando nas opções na lista abaixo.
+Este arquivo Readme.md apresenta a prova teórica e o teste prático. Todo o conteúdo está dividido em tópicos, desde as respostas da prova, até as instruções de configuração do ambiente de testes. Você pode navegar até o tópico desejado clicando nas opções na lista abaixo.
 
 #### ⮕ [Acesse as instruções para configurar o Backend aqui](#backend).
 #### ⮕ [Acesse as instruções para configurar o Banco de Dados aqui](#banco-de-dados).
