@@ -55,6 +55,7 @@ npm run dev
 Caso o app next.js tenha sido buildado, inicie o servidor com `npm start`.
 
 ## Projeto Completo em pleno funcionamento
+https://github.com/Rendryki/R_Teste_Task/assets/104596352/020994e2-a9c2-426c-95c9-3aa3cfb28ffe
 
 ## Prova Teórica
 
