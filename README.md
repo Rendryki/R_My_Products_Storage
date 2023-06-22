@@ -55,7 +55,7 @@ npm run dev
 Caso o app next.js tenha sido buildado, inicie o servidor com `npm start`.
 
 ## Projeto Completo em pleno funcionamento
-https://github.com/Rendryki/R_Teste_Task/assets/104596352/020994e2-a9c2-426c-95c9-3aa3cfb28ffe
+https://github.com/Rendryki/R_Teste_Task/assets/104596352/eae2f7f7-a21c-4849-9483-145546d9db17
 
 ## Prova Teórica
 
@@ -63,7 +63,7 @@ https://github.com/Rendryki/R_Teste_Task/assets/104596352/020994e2-a9c2-426c-95c
 Responsividade é a capacidade do layout, estilo ou configurações de uma página ou aplicação alterarem de acordo com as necessidades. A visualização de uma página web em um Smartphone é diferente da visualização em um Desktop. A responsividade tem o papel de lidar com essas diferentes necessidades e adequar a página em cada um de forma diferente.
 
 #### 2. Explique o que é o padrão MVC conceituando Model, View e Controller.
-MVC é uma arquitetura usada para implementar o processo de desenvolvimento de um software, sendo divididos em três partes que permitem a separação entre o Frontend e o Backend. O Model é responsável por definir a estrutura dos dados, processando tudo o que for necessário para o funcionamento da aplicação. Já o Controller lida com as informações de entrada, mapeando todas as ações e possíveis dados. O View, por sua vez, está ligado a Interface do Usuário e as informações que serão apresentadas na tela, representando o Frontend. 
+MVC é uma arquitetura usada para implementar o processo de desenvolvimento de um software, sendo dividido em três partes que permitem a separação entre o Frontend e o Backend. O Model é responsável por definir a estrutura dos dados, processando tudo o que for necessário para o funcionamento da aplicação. Já o Controller lida com as informações de entrada, mapeando todas as ações e possíveis dados. O View, por sua vez, está ligado a Interface do Usuário e as informações que serão apresentadas na tela, representando o Frontend. 
  
 #### 3. Escreva a definição de Programação Orientada a Objeto (POO)
 Programação Orientada a Objetos é um modelo de programação onde os objetos são representados por classes. Essas classes possuem métodos, que determinam o funcionamento e as ações da classe, e atributos, que deteminam seus estados e dados.
